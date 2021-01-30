@@ -1,0 +1,17 @@
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\ExtractGPXDataTests1.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\ExtractGPXDataTests1.pdb
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\ExtractGPXData.exe
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\ExtractGPXData.pdb
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\ExtractGPXData.exe.config
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\obj\Debug\ExtractGPXDataTests1.csprojAssemblyReference.cache
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\obj\Debug\ExtractGPXDataTests1.csproj.CoreCompileInputs.cache
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\obj\Debug\ExtractGPXDataTests1.csproj.CopyComplete
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\obj\Debug\ExtractGPXDataTests1.dll
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXDataTests1\obj\Debug\ExtractGPXDataTests1.pdb

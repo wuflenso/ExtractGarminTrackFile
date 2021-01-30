@@ -9,3 +9,14 @@ C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXDa
 C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.application
 C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.exe.manifest
 C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.application
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.exe.config
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.exe.manifest
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.application
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.exe
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.pdb
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.csprojAssemblyReference.cache
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.csproj.CoreCompileInputs.cache
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.exe.manifest
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.application
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.exe
+D:\Karim\Kesibukan\Self Improvement\MyApps\SOURCE CODE\Garmin Track File Extractor\ExtractGarminTrackFile\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.pdb

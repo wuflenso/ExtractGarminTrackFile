@@ -16,7 +16,16 @@ namespace ExtractGPXData
         {
             while (true)
             {
-                XDocument gpx = ImportGPX();
+                Console.WriteLine("Garmin Track (GPX) to CSV Converter");
+                Console.WriteLine("");
+
+                // Import GPX File
+                //Specify File Path i.e. C:/Users/karim/source/repos/ExtractGPXData/ExtractGPXData/Slamet.gpx
+                Console.Write("1. Import your .gpx file here (i.e. D:/Main/Input/track.gpx): ");
+                string gpxPath = Console.ReadLine();
+                Console.WriteLine("");
+
+                XDocument gpx = ImportGPX(gpxPath);
 
                 // Load namespaces
                 XNamespace gpxNamespace = XNamespace.Get("http://www.topografix.com/GPX/1/1");
@@ -58,20 +67,10 @@ namespace ExtractGPXData
             }
         }
 
-        public static XDocument ImportGPX()
+        public static XDocument ImportGPX(string path)
         {
-            Console.WriteLine("Garmin Track (GPX) to CSV Converter");
-            Console.WriteLine("");
-
-            // Import GPX File
-            //Specify File Path i.e. C:/Users/karim/source/repos/ExtractGPXData/ExtractGPXData/Slamet.gpx
-            Console.Write("1. Import your .gpx file here (i.e. D:/Main/Input/track.gpx): ");
-            string gpxPath = Console.ReadLine();
-            Console.WriteLine("");
-
             // Load Converted XML File
-            XDocument gpx = XDocument.Load(gpxPath);
-
+            XDocument gpx = XDocument.Load(path);
             return gpx;
         }
 
