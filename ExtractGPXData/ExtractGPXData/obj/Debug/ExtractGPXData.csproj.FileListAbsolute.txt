@@ -1,0 +1,11 @@
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.exe.config
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.exe
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.pdb
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.csprojAssemblyReference.cache
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.exe
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.pdb
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.exe.manifest
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\bin\Debug\ExtractGPXData.application
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.exe.manifest
+C:\Users\karim\source\repos\ExtractGPXData\ExtractGPXData\obj\Debug\ExtractGPXData.application
